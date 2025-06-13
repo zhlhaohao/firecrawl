@@ -1,0 +1,1 @@
+docker compose -f /home/lianghao/github/firecrawl/docker-compose.yml up -d
